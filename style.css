@@ -102,6 +102,13 @@ header h1 {
   font-size: 3.1rem;
   text-transform: uppercase;
 }
+
+.acceuil_logo {
+  font-size: 4rem;
+  background: -webkit-linear-gradient(right, #f04a5e, #f78f6a);
+  -webkit-background-clip: text;
+  color: transparent;
+}
 /*menu2*/
 
 .link_menu2 .menu2_title {
@@ -203,6 +210,13 @@ header h1 {
   color: #3c1218;
   font-family: "Devonshire", cursive;
   font-size: 3rem;
+}
+
+.section_menu1 .article_endnote .end_logo {
+  font-size: 4rem;
+  background: -webkit-linear-gradient(right, #f04a5e, #f78f6a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 /*menu2*/
 
@@ -523,6 +537,23 @@ footer a:hover {
   padding: 1.25rem;
 }
 
+.menu_pages .section_menu .menu1_logo {
+    font-size: 3rem;
+  }
+
+.menu_pages .section_menu1 .menu1_logo {
+  font-size: 6rem;
+  background: -webkit-linear-gradient(right, #f04a5e, #f78f6a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+}
+  .menu_pages .section_menu1 .article_endnote .end_logo {
+    font-size: 10rem;
+    padding-top: 0.4rem;
+  }
+
 .menu_pages .section_menu1 {
   box-shadow: 1px 1px 8px #d6d6d6;
   background-color: #fcdfdb;
@@ -562,6 +593,8 @@ footer a:hover {
 .menu_pages .section_menu1 .article_endnote .endnote_title {
   margin-top: 0rem;
 }
+
+
 
 .menu_pages .section_menu2 {
   box-shadow: 1px 1px 8px #d6d6d6;
