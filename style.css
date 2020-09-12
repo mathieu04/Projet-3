@@ -213,7 +213,6 @@ header h1 {
 }
 
 .section_menu1 .article_endnote .end_logo {
-  font-size: 4rem;
   background: -webkit-linear-gradient(right, #f04a5e, #f78f6a);
   -webkit-background-clip: text;
   color: transparent;
@@ -549,7 +548,7 @@ footer a:hover {
 
 
   .menu_pages .section_menu1 .article_endnote .end_logo {
-    font-size: 10rem;
+    font-size: 3rem;
     padding-top: 0.4rem;
   }
 
