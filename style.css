@@ -117,7 +117,7 @@ header h1 {
   font-size: 2.3rem;
   background: -webkit-linear-gradient(right, #6e4ccc, #e38a12);
   -webkit-background-clip: text;
- /* -webkit-text-fill-color: transparent;*/
+  color: transparent;
 }
 
 .link_menu2 .menu2_content {
@@ -133,7 +133,7 @@ header h1 {
   font-size: 2.5rem;
   background: -webkit-linear-gradient(right, #229df9, #0431df);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: transparent;
 }
 
 .link_menu3 .menu3_content {
@@ -149,7 +149,7 @@ header h1 {
   font-size: 2.5rem;
   background: -webkit-linear-gradient(right, #beff7f, #3d923a);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: transparent;
 }
 
 .link_menu4 .menu4_content {
@@ -216,7 +216,7 @@ header h1 {
   font-size: 4rem;
   background: -webkit-linear-gradient(right, #f04a5e, #f78f6a);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: transparent;
 }
 /*menu2*/
 
@@ -226,7 +226,7 @@ header h1 {
   font-size: 4rem;
   background: -webkit-linear-gradient(right, #6e4ccc, #e38a12);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: transparent;
 }
 
 .menu2_content {
@@ -306,7 +306,7 @@ header h1 {
   font-size: 5rem;
   background: -webkit-linear-gradient(right, #229df9, #0431df);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: transparent;
 }
 
 .menu3_content {
@@ -382,7 +382,7 @@ header h1 {
   font-size: 6rem;
   background: -webkit-linear-gradient(right, #beff7f, #3d923a);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: transparent;
 }
 
 .menu4_content {
@@ -508,9 +508,11 @@ footer a:hover {
 }
 
 .title_box {
+    display: flex;
   position: relative;
-  width: 30%;
 }
+
+
 
 
 
@@ -545,10 +547,10 @@ footer a:hover {
   font-size: 6rem;
   background: -webkit-linear-gradient(right, #f04a5e, #f78f6a);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: transparent;
 }
 
-}
+
   .menu_pages .section_menu1 .article_endnote .end_logo {
     font-size: 10rem;
     padding-top: 0.4rem;
